@@ -1,0 +1,4 @@
+.gitignore
+.vs/*
+Barbershop/bin/*
+Barbershop/obj/*
